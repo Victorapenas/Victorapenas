@@ -1,68 +1,84 @@
-# Olá, eu sou o Victor Hugo 👋
+# Fala aí, beleza? Eu sou o Victor Hugo 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Victorapenas&label=Visitas%20no%20Perfil&color=0e75b6&style=flat" alt="Visitas no Perfil" />
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web%20Full%20Stack-blue?style=flat" alt="Foco" />
-  <img src="https://img.shields.io/badge/Formação-ADS%20%40%20IFBA-green?style=flat" alt="IFBA" />
-</p>
-
-Sou desenvolvedor focado na criação de **aplicações web modernas, plataformas SaaS escaláveis e interfaces de alta conversão**. Apaixonado por transformar ideias em soluções reais, com atenção minuciosa à experiência do usuário (UX), arquitetura de software limpa e boas práticas de desenvolvimento.
-
----
-
-## 🛠️ Tecnologias & Habilidades
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-### **Backend & Arquitetura**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Tenant-6f42c1?style=for-the-badge" />
-</p>
-
-### **Banco de Dados & Ferramentas**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://wa.me/5573981037776" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-(73)%2098103--7776-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:zeniniti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zeniniti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <img src="https://img.shields.io/badge/Idade-22%20anos-007ACC?style=for-the-badge" alt="Idade">
+  <img src="https://img.shields.io/badge/Origem-Bahia%20%F0%9F%87%A7%F0%9F%87%B7-green?style=for-the-badge" alt="Bahia">
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+### 👨‍💻 Quem sou eu
 
-| Projeto | Descrição | Tecnologias | Links |
-| :--- | :--- | :--- | :---: |
-| 🏖️ **MBV Viagens** | SPA interativa para gestão completa de viagens, rateio automático de despesas por casal, roteiro e compras. | JS (ES6+), CSS Grid, Vercel | [🌐 Live Demo](https://passeio-mu.vercel.app) • [💻 Repositório](https://github.com/Victorapenas/mbv-viagens) |
-| 🥁 **Sonbatera** | Portfólio de alta conversão para baterista profissional com case study completo de UX/UI, wireframes e StoryBrand. | HTML5, CSS3, UX/UI, Vercel | [🌐 Live Demo](https://sonbatera-oficial.vercel.app) • [💻 Repositório](https://github.com/Victorapenas/son-batera) |
-| 💍 **Chá da Casa & Eventos** | Plataforma SaaS Multi-Tenant com painel administrativo, RSVP dinâmico, lista de presentes com scraper OpenGraph e PIX. | Laravel 11, PHP 8.2, MySQL, Tailwind | [💻 Repositório](https://github.com/Victorapenas/site_cha_de_casa) |
-| ⚽ **Chico Bet** | Single Page Application dinâmica com algoritmo de balanceamento de equipes e cards táticos estilo FIFA/FUT. | JavaScript Modular, CSS Architecture | [💻 Repositório](https://github.com/Victorapenas/chico-bet) |
-| 🏢 **Coworking Digital** | Plataforma corporativa de gestão de equipes, fluxo de comunicação e tarefas integradas. | PHP, MySQL, Bootstrap | [💻 Repositório](https://github.com/Victorapenas/COWORKING-DIGITAL) |
+Tenho 22 anos, sou natural de **Eunápolis/BA** e cresci em **Porto Seguro/BA**.
 
----
+Minha história com tecnologia e arte começou cedo: cresci acompanhando meu irmão na área de design gráfico, aprendi na prática a operar ferramentas de criação visual e comecei a atender demandas e freelas ainda jovem. Em 2020, ingressei no **IFBA (Campus Eunápolis)**, onde me formei como **Técnico em Informática** e atuei como **monitor de tecnologia**. Hoje, continuo no IFBA concluindo minha graduação em **Análise e Desenvolvimento de Sistemas (ADS)**.
 
-## 📊 Estatísticas no GitHub
+No mercado prático, já vivenciei diferentes frentes:
+- **Suporte Técnico & Hardware:** Atendimento a clientes, manutenção de computadores, redes e suporte especializado em campo — incluindo instalação e configuração de **balanças comerciais** e automação.
+- **Gestão, Operações & Negócios:** Fui um dos **sócios fundadores e Diretor de Operações (COO) da assessoria MBV Company**, coordenando demandas de clientes, equipe e entregas estratégicas.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Victorapenas&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorapenas&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" width="48%" />
-</p>
+Hoje, optei por focar 100% na minha carreira individual em **Desenvolvimento Web & Design**, aliando raciocínio lógico no backend à sensibilidade estética na criação de interfaces e identidades visuais.
 
 ---
 
-## 📫 Vamos Conversar?
+### 💡 Meu Diferencial
 
-- 📧 **E-mail:** [zeniniti@gmail.com](mailto:zeniniti@gmail.com)
-- 🐙 **GitHub:** [@Victorapenas](https://github.com/Victorapenas)
-- 📍 **Localização:** Eunápolis - Bahia, Brasil
+A maioria dos desenvolvedores tem dificuldade com design, e a maioria dos designers não programa. Eu domino as duas pontas:
+1. **No Código:** Gosto muito de arquitetar soluções com **PHP, Laravel e Python**, além de modelar dados em **MySQL** e construir interfaces fluidas com **JavaScript, HTML5 e CSS3**.
+2. **No Visual:** Tenho forte domínio do **Pacote Adobe (com destaque para Photoshop e Illustrator)** e Canva, desenvolvendo desde a identidade de marca e peças gráficas até wireframes e protótipos de alta conversão.
+
+---
+
+### 🛠️ Minha Caixa de Ferramentas
+
+| Área | Tecnologias & Softwares |
+| :--- | :--- |
+| **Backend & Linguagens** | PHP, Laravel, Python, Node.js, REST APIs |
+| **Frontend & UI** | JavaScript (ES6+), HTML5 Semântico, CSS3 Modular, Tailwind, Bootstrap |
+| **Design & Criação Visual** | Adobe Photoshop, Adobe Illustrator, Pacote Adobe, Canva, Identidade Visual, UI/UX |
+| **Banco de Dados & Ferramentas** | MySQL, Git & GitHub, Vercel, Suporte de TI & Redes, Hardware & Balanças Comerciais |
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão algumas das aplicações que projetei, desenvolvi e publiquei:
+
+- 🏖️ **[MBV Viagens](https://github.com/Victorapenas/mbv-viagens)**  
+  Single Page Application interativa para logística de viagens, divisão automatizada de custos por casal, roteiro interativo e checklist de compras.  
+  👉 **[Acessar aplicação no ar na Vercel 🚀](https://passeio-mu.vercel.app)**
+
+- 🥁 **[Sonbatera · Portfólio & Case Study](https://github.com/Victorapenas/son-batera)**  
+  Landing page para baterista profissional com o case study completo de UX/UI: briefing, wireframes, copywriting com StoryBrand e relatório de testes de QA.  
+  👉 **[Acessar site no ar na Vercel 🚀](https://sonbatera-oficial.vercel.app)**
+
+- 💍 **[Chá da Casa & Eventos](https://github.com/Victorapenas/site_cha_de_casa)**  
+  Plataforma SaaS Multi-Tenant em Laravel com painel Super Admin (Master), tenant impersonate, RSVP interativo, scraper OpenGraph de presentes e PIX.
+
+- ⚽ **[Chico Bet](https://github.com/Victorapenas/chico-bet)**  
+  SPA modular com algoritmo de balanceamento de times de futebol amador e cards táticos estilo FIFA/FUT.
+
+- 🏢 **[Coworking Digital](https://github.com/Victorapenas/COWORKING-DIGITAL)**  
+  Plataforma corporativa de gestão de tarefas, checklists e comunicação interna de equipe.
+
+---
+
+### 🎨 Criação Visual & Design Gráfico
+Ao longo da minha trajetória como designer e ex-COO na MBV, desenvolvi marcas, identidades visuais completas, criativos de anúncios e materiais gráficos para clientes reais de múltiplos nichos:
+- *Oxe Bar*, *SafeMed*, *JH Clean*, *Instituto Ômega*, *TopLanche*, *Garagem*, *Joetina*, entre outros.
+
+---
+
+### 📬 Vamos conversar?
+
+Estou à disposição para projetos, oportunidades profissionais e colaborações:
+
+- 📱 **WhatsApp:** [(73) 98103-7776](https://wa.me/5573981037776)
+- ✉️ **E-mail:** [zeniniti@gmail.com](mailto:zeniniti@gmail.com)
+- 📍 **Localização:** Eunápolis / Porto Seguro — Bahia
