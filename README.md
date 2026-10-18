@@ -1,68 +1,125 @@
-# Victor Hugo Santana Sousa
+# Olá, eu sou Victor Hugo! 👋
 
-Graduando em Análise e Desenvolvimento de Sistemas (IFBA) e Técnico em Informática formado pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia (Campus Eunápolis).
+<div align="center">
 
-Informações de contato:
-* WhatsApp: (73) 98103-7776
-* E-mail: zeniniti@gmail.com
-* Localização: Eunápolis, Bahia (Natural de Porto Seguro, Bahia)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Victor%20Hugo%20Santana&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20IA%20%26%20Engenharia%20Ag%C3%AAntica&descAlignY=58&descAlign=50)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://passeio-mu.vercel.app)
+[![E-mail](https://img.shields.io/badge/E--mail-zeniniti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeniniti@gmail.com)
+[![IFBA](https://img.shields.io/badge/IFBA-Campus_Eunápolis-2E7D32?style=for-the-badge&logo=google-classroom&logoColor=white)](https://portal.ifba.edu.br/)
 
-## Perfil Profissional
-
-Minha atuação é pautada pela união entre engenharia de software, vivência prática em suporte de infraestrutura e sensibilidade para comunicação visual e design.
-
-Iniciei no mercado de trabalho no Gallope Plaza Hotel, meu primeiro emprego, atuando como recepcionista e acompanhando de perto meu pai, que exercia a gerência geral e a contabilidade do estabelecimento. Essa vivência me capacitou em disciplina operacional, gestão financeira e excelência no atendimento. Meu segundo emprego foi no KK Palace Hotel, onde atuei como recepcionista e passei a produzir materiais de comunicação visual e design. A base técnica visual veio do aprendizado com meu irmão, designer gráfico, que me capacitou no uso prático do Pacote Adobe (Photoshop e Illustrator).
-
-A identificação com tecnologia começou cedo, desmontando e configurando computadores. A formalização técnica se deu no IFBA (Campus Eunápolis), onde concluí o Curso Técnico Integrado em Informática e fui selecionado como monitor das disciplinas de Programação Web e PHP, auxiliando outros alunos no desenvolvimento de lógica e aplicações web. Atualmente, prossigo no IFBA cursando a graduação em Análise e Desenvolvimento de Sistemas (ADS).
-
-No setor corporativo, atuei como sócio fundador e Diretor de Operações (COO) da assessoria MBV Company, estruturando processos internos, equipe e projetos digitais. Atualmente, atuo na Prosoma Automação Comercial (Sampaio Tecnologia LTDA), exercendo suporte técnico especializado em software e hardware para o varejo: implantação do sistema ERP e PDV Hiper com banco de dados SQL Server, parametrização fiscal e tributária (rejeições de SEFAZ, NFC-e e certificados digitais A1 e A3), relógios de ponto biométricos e faciais (iPonto, Henry, Control iD, Topdata), sistemas de academias com catracas eletrônicas via TCP/IP (iFitness), balanças comerciais em rede (Toledo e Ramuza) e manutenção de racks, switches e servidores.
+</div>
 
 ---
 
-## Competências Técnicas
+## 🚀 Sobre Mim
 
-### Desenvolvimento Web e Backend
-* Linguagens principais: PHP (foco em Laravel), Python, JavaScript (ES6+) e Node.js.
-* Bancos de dados: MySQL, Microsoft SQL Server, PostgreSQL, modelagem relacional e queries analíticas.
-* Frontend: HTML5 semântico, CSS3 modular, Tailwind CSS, Bootstrap, arquitetura SPA e consumo de APIs REST.
+Desenvolvedor Fullstack e Designer UI/UX com sólida formação pelo **Instituto Federal da Bahia (IFBA)** e atuação prática unindo **engenharia de software, automação de sistemas, inteligência artificial e comunicação visual de alto padrão**.
 
-### Suporte Técnico, Redes e Automação Comercial
-* Sistemas de Gestão: Implantação de ERP/PDV (Hiper Gestão, Loja e Caixa), sincronização de dados e troubleshooting via HiperSync.
-* Equipamentos e Periféricos: Relógios de ponto eletrônico e facial, catracas de acesso via TCP/IP, impressoras térmicas (Bematech e Elgin) e balanças industriais (softwares MGV 7 e Atena II).
-* Infraestrutura de TI: Configuração de IP estático/dinâmico, cabeamento estruturado, organização de racks, switches, patch panels e rotinas de backup.
-* Atendimento e CRM: Gestão de incidentes remotos e presenciais via OrbitFlow e AnyDesk.
-
-### Design Gráfico e Criação Visual
-* Softwares: Adobe Photoshop, Adobe Illustrator, Pacote Adobe, Canva.
-* Aplicação prática: Criação de marcas, identidades visuais completas, manuais institucionais e peças publicitárias para clientes do comércio e serviços.
+* 🎓 **Graduando em Análise e Desenvolvimento de Sistemas (ADS)** pelo IFBA (Campus Eunápolis).
+* 📜 **Técnico em Informática Integrado** pelo IFBA e ex-**Monitor Oficial de Programação Web e PHP**.
+* 🤖 **Especialista em Desenvolvimento Orientado a IA & Engenharia Agêntica**, dominando ferramentas de ponta como **Claude Code**, **Antigravity IDE**, **Cursor** e arquitetura de **MCPs (Model Context Protocol)**.
+* 🎨 **Criação Visual & IA Generativa**: Experiência avançada em design de interfaces de alta conversão, identidade de marca e fluxos de geração de imagens com **Adobe Firefly**, **Canva**, **Google Gemini / Imagen**, **Photoshop** e **Figma**.
+* 💼 **Vivência Corporativa**: Atuação como Diretor de Operações (COO) na estruturação de projetos digitais e suporte técnico especializado em software/hardware comercial (ERP/PDV Hiper, SQL Server, redes e automação fiscal).
 
 ---
 
-## Projetos em Destaque
+## 🛠️ Stack Tecnológica & Ferramental
 
-* MBV Viagens: Aplicação interativa para gestão de viagens, roteiros, checklist operacional e rateio financeiro dinâmico por participante.
-  Aplicação em produção na Vercel: https://passeio-mu.vercel.app
-  Repositório no GitHub: https://github.com/Victorapenas/mbv-viagens
-
-* Sonbatera: Estudo de caso de UX/UI e landing page de alta conversão para baterista profissional, cobrindo briefing, análise de concorrência, wireframe e entrega de código.
-  Aplicação em produção na Vercel: https://sonbatera-oficial.vercel.app
-  Repositório no GitHub: https://github.com/Victorapenas/son-batera
-
-* Chá da Casa e Eventos: Plataforma SaaS Multi-Tenant em Laravel com painel master, múltiplos eventos isolados, confirmação de presença (RSVP) e integração com PIX.
-  Repositório no GitHub: https://github.com/Victorapenas/site_cha_de_casa
-
-* Chico Bet: Aplicação esportiva com algoritmo para sorteio balanceado de times com base em pontuação individual e cartas dinâmicas.
-  Repositório no GitHub: https://github.com/Victorapenas/chico-bet
-
-* Coworking Digital: Plataforma corporativa para gestão interna de equipes, projetos e checklists de tarefas em PHP e MySQL.
-  Repositório no GitHub: https://github.com/Victorapenas/COWORKING-DIGITAL
+### 🤖 Inteligência Artificial & Engenharia Agêntica
+```text
+Claude Code (CLI)  •  Antigravity IDE  •  Cursor IDE  •  Model Context Protocol (MCP)
+Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engineering Avançado
+```
+![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## Histórico Acadêmico
+### 💻 Desenvolvimento Fullstack & Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-* Graduação em Análise e Desenvolvimento de Sistemas: Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), Campus Eunápolis (Em andamento).
-* Técnico em Informática Integrado ao Ensino Médio: Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), Campus Eunápolis (Concluído).
-* Monitoria Acadêmica: Monitor oficial de Programação Web e PHP no IFBA.
+---
+
+### 🎨 Frontend & Design Visual
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+### 🗄️ Banco de Dados & Infraestrutura
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🏆 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌟 Sonbatera — UX/UI & Landing Page</h3>
+      <p>Estudo de caso completo de UX/UI e desenvolvimento de landing page de alta conversão para baterista profissional, com foco em performance e narrativa visual.</p>
+      <p>
+        <a href="https://sonbatera-oficial.vercel.app"><b>🌐 Ver Projeto Online</b></a> • 
+        <a href="https://github.com/Victorapenas/son-batera"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✈️ MBV Viagens — App Interativo</h3>
+      <p>Aplicação web interativa para gestão de viagens, roteiros em tempo real, checklist de bagagens e rateio financeiro dinâmico por participante.</p>
+      <p>
+        <a href="https://passeio-mu.vercel.app"><b>🌐 Ver Projeto Online</b></a> • 
+        <a href="https://github.com/Victorapenas/mbv-viagens"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💍 Chá da Casa & Eventos — SaaS Laravel</h3>
+      <p>Plataforma SaaS Multi-Tenant robusta construída em PHP/Laravel com painel administrativo master, gestão de eventos isolados, confirmação de presença (RSVP) e checkout PIX.</p>
+      <p>
+        <a href="https://github.com/Victorapenas/site_cha_de_casa"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚽ Chico Bet — Algoritmo Esportivo</h3>
+      <p>Aplicação esportiva com algoritmo dedicado para sorteio balanceado de times com base em pontuação individual e cartas dinâmicas de jogadores.</p>
+      <p>
+        <a href="https://github.com/Victorapenas/chico-bet"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victorapenas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorapenas&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📬 Vamos Conversar?
+
+* 📧 **E-mail Profissional:** [zeniniti@gmail.com](mailto:zeniniti@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/victor-hugo-santana-sousa-947b97364](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
+* 📍 **Localização:** Bahia, Brasil
