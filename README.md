@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://raw.githubusercontent.com/Victorapenas/Victorapenas/main/assets/banner.png" alt="Victor Hugo - JUST ME 🌙" width="100%" />
 
 <br/><br/>
 
 [![Portfólio & Currículo](https://img.shields.io/badge/Portf%C3%B3lio_%26_Curr%C3%ADculo-JUST_ME_🌙-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victorapenas.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosantanasousa/)
 [![IFBA](https://img.shields.io/badge/IFBA-Campus_Eun%C3%A1polis-2E7D32?style=for-the-badge&logo=google-classroom&logoColor=white)](https://portal.ifba.edu.br/)
 
 </div>
@@ -170,6 +170,7 @@ Puppeteer Browser QA  •  Remotion (Vídeo em Código)  •  Prompt Engineering
 
 ## 📬 Conexão Profissional
 
-* 💼 **LinkedIn:** [linkedin.com/in/victor-hugo-santana-sousa-947b97364](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
+* 💼 **LinkedIn:** [linkedin.com/in/victorhugosantanasousa](https://www.linkedin.com/in/victorhugosantanasousa/)
 * 💻 **GitHub:** [github.com/Victorapenas](https://github.com/Victorapenas)
 * 📍 **Localização:** Bahia, Brasil
+
