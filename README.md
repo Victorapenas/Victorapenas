@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Victorapenas/Victorapenas/main/assets/banner.svg" alt="Victor Hugo - JUST ME 🌙" width="100%" />
+<img src="https://raw.githubusercontent.com/Victorapenas/Victorapenas/main/assets/banner.png" alt="Victor Hugo - JUST ME 🌙" width="100%" />
 
 <br/><br/>
 
