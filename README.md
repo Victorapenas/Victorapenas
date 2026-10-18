@@ -4,10 +4,9 @@
 
 <br/><br/>
 
+[![Portfólio & Currículo](https://img.shields.io/badge/Portf%C3%B3lio_%26_Curr%C3%ADculo-JUST_ME_🌙-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victorapenas.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://passeio-mu.vercel.app)
-[![E-mail](https://img.shields.io/badge/E--mail-zeniniti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeniniti@gmail.com)
-[![IFBA](https://img.shields.io/badge/IFBA-Campus_Eunápolis-2E7D32?style=for-the-badge&logo=google-classroom&logoColor=white)](https://portal.ifba.edu.br/)
+[![IFBA](https://img.shields.io/badge/IFBA-Campus_Eun%C3%A1polis-2E7D32?style=for-the-badge&logo=google-classroom&logoColor=white)](https://portal.ifba.edu.br/)
 
 </div>
 
@@ -16,15 +15,15 @@
 ## 🚀 Sobre Mim
 
 > ### 🌙 *"JUST ME"*
-> *Criando soluções digitais de alto impacto que unem código limpo, inteligência artificial e design visual.*
+> *Desenvolvimento de software de alta performance, inteligência artificial e direção visual.*
 
-Desenvolvedor Fullstack e Designer UI/UX com sólida formação pelo **Instituto Federal da Bahia (IFBA)** e atuação prática unindo **engenharia de software, automação de sistemas, inteligência artificial e comunicação visual de alto padrão**.
+Desenvolvedor Fullstack e Designer com sólida formação pelo **Instituto Federal da Bahia (IFBA)** e atuação prática unindo **engenharia de software, arquitetura web, inteligência artificial agêntica e comunicação visual**.
 
 * 🎓 **Graduando em Análise e Desenvolvimento de Sistemas (ADS)** pelo IFBA (Campus Eunápolis).
 * 📜 **Técnico em Informática Integrado** pelo IFBA e ex-**Monitor Oficial de Programação Web e PHP**.
-* 🤖 **Especialista em Desenvolvimento Orientado a IA & Engenharia Agêntica**, dominando ferramentas de ponta como **Claude Code**, **Antigravity IDE**, **Cursor** e arquitetura de **MCPs (Model Context Protocol)**.
-* 🎨 **Criação Visual & IA Generativa**: Experiência avançada em design de interfaces de alta conversão, identidade de marca e fluxos de geração de imagens com **Adobe Firefly**, **Canva**, **Google Gemini / Imagen**, **Photoshop** e **Figma**.
-* 💼 **Vivência Corporativa**: Atuação como Diretor de Operações (COO) na estruturação de projetos digitais e suporte técnico especializado em software/hardware comercial (ERP/PDV Hiper, SQL Server, redes e automação fiscal).
+* 🌐 **Portfólio & Currículo Oficial:** Acesse a experiência completa em [**victorapenas.github.io/portfolio**](https://victorapenas.github.io/portfolio/) com acervo visual, apresentações comerciais multi-páginas e o SaaS CháVIP em produção.
+* 🤖 **Engenharia Agêntica & Automação:** Prática avançada em ferramentas modernas como **Claude Code**, **Cursor IDE**, **Antigravity** e orquestração via **MCPs (Model Context Protocol)** e **Remotion**.
+* 🎨 **Direção Visual:** Criação de apresentações comerciais de alto valor, decks de trailers, catálogos industriais, capas e identidades com **Photoshop**, **Illustrator** e **Figma**.
 
 ---
 
@@ -33,7 +32,7 @@ Desenvolvedor Fullstack e Designer UI/UX com sólida formação pelo **Instituto
 ### 🤖 Inteligência Artificial & Engenharia Agêntica
 ```text
 Claude Code (CLI)  •  Antigravity IDE  •  Cursor IDE  •  Model Context Protocol (MCP)
-Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engineering Avançado
+Puppeteer Browser QA  •  Remotion (Vídeo em Código)  •  Prompt Engineering & RAG
 ```
 ![Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -58,14 +57,13 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ---
 
 ### 🗄️ Banco de Dados & Infraestrutura
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -78,8 +76,28 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌟 Sonbatera — UX/UI & Landing Page</h3>
-      <p>Estudo de caso completo de UX/UI e desenvolvimento de landing page de alta conversão para baterista profissional, com foco em performance e narrativa visual.</p>
+      <h3 align="center">✨ CháVIP — Plataforma Definitiva de Eventos</h3>
+      <p>SaaS Multi-Tenant em Laravel 11 em produção na Hostinger VPS. Lista de presentes inteligente com web scraping automático de lojas, confirmação de presença (RSVP) e recebimento direto via PIX sem taxas de intermediação.</p>
+      <p><b>Stack:</b> PHP 8.2, Laravel 11, Blade, MySQL, PIX, Hostinger VPS</p>
+      <p>
+        <a href="https://chadecasa.mbvcompany.com/"><b>🌐 Acessar CháVIP Online</b></a> • 
+        <a href="https://github.com/Victorapenas/site_cha_de_casa"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌙 Portfólio Oficial & Currículo Visual</h3>
+      <p>Portfólio imersivo construído em HTML5, Tailwind CSS e JavaScript puro (60 FPS) com acervo gráfico de apresentações comerciais multi-páginas, canvas interativo e visualizador de lâminas.</p>
+      <p><b>Stack:</b> HTML5, Tailwind CSS, JavaScript ES6+, WebP, GitHub Pages</p>
+      <p>
+        <a href="https://victorapenas.github.io/portfolio/"><b>🌐 Ver Portfólio Online</b></a> • 
+        <a href="https://github.com/Victorapenas/portfolio"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌟 Sonbatera — UX/UI & Website</h3>
+      <p>Estudo de caso e desenvolvimento de website e portfólio oficial para baterista profissional com mídias integradas e narrativa visual.</p>
       <p><b>Stack:</b> HTML5, CSS3, JavaScript, Vercel</p>
       <p>
         <a href="https://sonbatera-oficial.vercel.app"><b>🌐 Ver Projeto Online</b></a> • 
@@ -98,29 +116,11 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">💍 Chá da Casa & Eventos — SaaS Laravel</h3>
-      <p>Plataforma SaaS Multi-Tenant robusta construída em PHP/Laravel com painel administrativo master, gestão de eventos isolados, confirmação de presença (RSVP) e checkout PIX.</p>
-      <p><b>Stack:</b> PHP, Laravel, Blade, MySQL, PIX</p>
-      <p>
-        <a href="https://github.com/Victorapenas/site_cha_de_casa"><b>💻 Código Fonte</b></a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">🏢 Coworking Digital — Gestão Corporativa</h3>
       <p>Plataforma corporativa de gestão de projetos e comunicação interna com hierarquia em 3 níveis (Admin, Gestor, Colaborador) e conversão de avisos em checklists acionáveis.</p>
       <p><b>Stack:</b> PHP, JavaScript, MySQL, Arquitetura Corporativa</p>
       <p>
         <a href="https://github.com/Victorapenas/COWORKING-DIGITAL"><b>💻 Código Fonte</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚽ Chico Bet — Algoritmo Esportivo</h3>
-      <p>Aplicação esportiva com algoritmo dedicado para sorteio balanceado de times com base em pontuação individual e cartas dinâmicas de jogadores estilo FUT.</p>
-      <p><b>Stack:</b> JavaScript, Algoritmos de Balanceamento, UI Interativa</p>
-      <p>
-        <a href="https://github.com/Victorapenas/chico-bet"><b>💻 Código Fonte</b></a>
       </p>
     </td>
     <td width="50%">
@@ -129,29 +129,6 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
       <p><b>Stack:</b> Python, JSON Persistence, CRUD Architecture</p>
       <p>
         <a href="https://github.com/Victorapenas/PROJETO---FABINHO"><b>💻 Código Fonte</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🤖 Inteligência Artificial, Engenharia Agêntica & Automação
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⚡ Skills & LP Factory Engine</h3>
-      <p>Framework e orquestrador de automação agêntica para concepção e geração rápida de landing pages de alta conversão. Integra múltiplos agentes autônomos para análise de mercado, direção criativa, redação e código.</p>
-      <p><b>Stack:</b> Python, PHP, IA Generativa, Agentes Autônomos, Prompt Engineering</p>
-      <p>
-        <a href="https://github.com/Victorapenas/skills"><b>💻 Código Fonte</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 3D Web Experience & GLTF Viewer</h3>
-      <p>Laboratório e prototipagem de renderização 3D interativa diretamente no navegador, integrando manipulação de modelos <code>.glb</code> e visualização imersiva.</p>
-      <p><b>Stack:</b> WebGL / 3D Web, HTML5, GLTF/GLB</p>
-      <p>
-        <a href="https://github.com/Victorapenas/siteteste"><b>💻 Código Fonte</b></a>
       </p>
     </td>
   </tr>
@@ -178,16 +155,6 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="100%" colspan="2">
-      <h3 align="center">🧬 Biotecnologia & Computação Científica</h3>
-      <p>Projeto de iniciação científica e desenvolvimento de rotinas computacionais em Python aplicadas ao processamento de dados e pesquisas em biotecnologia.</p>
-      <p><b>Stack:</b> Python, Processamento de Dados, Computação Científica</p>
-      <p>
-        <a href="https://github.com/Victorapenas/BIOTEC"><b>💻 Código Fonte</b></a>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -201,8 +168,8 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
 
 ---
 
-## 📬 Vamos Conversar?
+## 📬 Conexão Profissional
 
-* 📧 **E-mail Profissional:** [zeniniti@gmail.com](mailto:zeniniti@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/victor-hugo-santana-sousa-947b97364](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
+* 💻 **GitHub:** [github.com/Victorapenas](https://github.com/Victorapenas)
 * 📍 **Localização:** Bahia, Brasil
