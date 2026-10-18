@@ -1,11 +1,11 @@
-# Olá, eu sou Victor Hugo! 👋
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Victor%20Hugo%20Santana&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20IA%20%26%20Engenharia%20Ag%C3%AAntica&descAlignY=58&descAlign=50)
+<img src="https://raw.githubusercontent.com/Victorapenas/Victorapenas/main/assets/banner.svg" alt="Victor Hugo - JUST ME 🌙" width="100%" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-santana-sousa-947b97364)
-[![Portfolio](https://img.shields.io/badge/Portfólio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://passeio-mu.vercel.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://passeio-mu.vercel.app)
 [![E-mail](https://img.shields.io/badge/E--mail-zeniniti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeniniti@gmail.com)
 [![IFBA](https://img.shields.io/badge/IFBA-Campus_Eunápolis-2E7D32?style=for-the-badge&logo=google-classroom&logoColor=white)](https://portal.ifba.edu.br/)
 
@@ -14,6 +14,9 @@
 ---
 
 ## 🚀 Sobre Mim
+
+> ### 🌙 *"JUST ME"*
+> *Criando soluções digitais de alto impacto que unem código limpo, inteligência artificial e design visual.*
 
 Desenvolvedor Fullstack e Designer UI/UX com sólida formação pelo **Instituto Federal da Bahia (IFBA)** e atuação prática unindo **engenharia de software, automação de sistemas, inteligência artificial e comunicação visual de alto padrão**.
 
