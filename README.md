@@ -73,11 +73,14 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
 
 ## 🏆 Projetos em Destaque
 
+### 💻 Aplicações Web, SaaS & Fullstack
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🌟 Sonbatera — UX/UI & Landing Page</h3>
       <p>Estudo de caso completo de UX/UI e desenvolvimento de landing page de alta conversão para baterista profissional, com foco em performance e narrativa visual.</p>
+      <p><b>Stack:</b> HTML5, CSS3, JavaScript, Vercel</p>
       <p>
         <a href="https://sonbatera-oficial.vercel.app"><b>🌐 Ver Projeto Online</b></a> • 
         <a href="https://github.com/Victorapenas/son-batera"><b>💻 Código Fonte</b></a>
@@ -86,6 +89,7 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
     <td width="50%">
       <h3 align="center">✈️ MBV Viagens — App Interativo</h3>
       <p>Aplicação web interativa para gestão de viagens, roteiros em tempo real, checklist de bagagens e rateio financeiro dinâmico por participante.</p>
+      <p><b>Stack:</b> JavaScript, CSS Moderno, Vercel</p>
       <p>
         <a href="https://passeio-mu.vercel.app"><b>🌐 Ver Projeto Online</b></a> • 
         <a href="https://github.com/Victorapenas/mbv-viagens"><b>💻 Código Fonte</b></a>
@@ -96,15 +100,91 @@ Puppeteer Browser Automation  •  Engenharia Reversa de Web  •  Prompt Engine
     <td width="50%">
       <h3 align="center">💍 Chá da Casa & Eventos — SaaS Laravel</h3>
       <p>Plataforma SaaS Multi-Tenant robusta construída em PHP/Laravel com painel administrativo master, gestão de eventos isolados, confirmação de presença (RSVP) e checkout PIX.</p>
+      <p><b>Stack:</b> PHP, Laravel, Blade, MySQL, PIX</p>
       <p>
         <a href="https://github.com/Victorapenas/site_cha_de_casa"><b>💻 Código Fonte</b></a>
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🏢 Coworking Digital — Gestão Corporativa</h3>
+      <p>Plataforma corporativa de gestão de projetos e comunicação interna com hierarquia em 3 níveis (Admin, Gestor, Colaborador) e conversão de avisos em checklists acionáveis.</p>
+      <p><b>Stack:</b> PHP, JavaScript, MySQL, Arquitetura Corporativa</p>
+      <p>
+        <a href="https://github.com/Victorapenas/COWORKING-DIGITAL"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">⚽ Chico Bet — Algoritmo Esportivo</h3>
-      <p>Aplicação esportiva com algoritmo dedicado para sorteio balanceado de times com base em pontuação individual e cartas dinâmicas de jogadores.</p>
+      <p>Aplicação esportiva com algoritmo dedicado para sorteio balanceado de times com base em pontuação individual e cartas dinâmicas de jogadores estilo FUT.</p>
+      <p><b>Stack:</b> JavaScript, Algoritmos de Balanceamento, UI Interativa</p>
       <p>
         <a href="https://github.com/Victorapenas/chico-bet"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 Controle de Estoque & CRUD Desktop</h3>
+      <p>Aplicação desktop completa de controle de estoque e inventário em Python, desenvolvida com persistência estruturada em JSON, validações e relatórios.</p>
+      <p><b>Stack:</b> Python, JSON Persistence, CRUD Architecture</p>
+      <p>
+        <a href="https://github.com/Victorapenas/PROJETO---FABINHO"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Inteligência Artificial, Engenharia Agêntica & Automação
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Skills & LP Factory Engine</h3>
+      <p>Framework e orquestrador de automação agêntica para concepção e geração rápida de landing pages de alta conversão. Integra múltiplos agentes autônomos para análise de mercado, direção criativa, redação e código.</p>
+      <p><b>Stack:</b> Python, PHP, IA Generativa, Agentes Autônomos, Prompt Engineering</p>
+      <p>
+        <a href="https://github.com/Victorapenas/skills"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 3D Web Experience & GLTF Viewer</h3>
+      <p>Laboratório e prototipagem de renderização 3D interativa diretamente no navegador, integrando manipulação de modelos <code>.glb</code> e visualização imersiva.</p>
+      <p><b>Stack:</b> WebGL / 3D Web, HTML5, GLTF/GLB</p>
+      <p>
+        <a href="https://github.com/Victorapenas/siteteste"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🎓 IFBA — Projetos Acadêmicos, Engenharia de Software & Monitoria
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏛️ Sistema de Requerimentos Estudantis IFBA</h3>
+      <p>Sistema completo de protocolo e requerimentos acadêmicos para a comunidade IFBA (Turma EI-31). Inclui autenticação, perfis de acesso e modelagem relacional completa em MySQL Workbench.</p>
+      <p><b>Stack:</b> PHP, MySQL, Modelagem de Dados (Workbench), JavaScript</p>
+      <p>
+        <a href="https://github.com/Victorapenas/P.i-DE-PARANGOLE-COM-OUTROS"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 Monitoria Oficial de Programação Web</h3>
+      <p>Repositório de apoio pedagógico desenvolvido para a monitoria oficial de Programação Web e PHP no IFBA Campus Eunápolis, contendo exercícios práticos, algoritmos e guias de fixação.</p>
+      <p><b>Stack:</b> PHP, Algoritmos, Ensino de Programação, Web Standards</p>
+      <p>
+        <a href="https://github.com/Victorapenas/projetomonitoria"><b>💻 Código Fonte</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3 align="center">🧬 Biotecnologia & Computação Científica</h3>
+      <p>Projeto de iniciação científica e desenvolvimento de rotinas computacionais em Python aplicadas ao processamento de dados e pesquisas em biotecnologia.</p>
+      <p><b>Stack:</b> Python, Processamento de Dados, Computação Científica</p>
+      <p>
+        <a href="https://github.com/Victorapenas/BIOTEC"><b>💻 Código Fonte</b></a>
       </p>
     </td>
   </tr>
